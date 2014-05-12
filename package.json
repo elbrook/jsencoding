@@ -1,0 +1,8 @@
+{
+  "name": "jsencoding",
+  "version": "0.1.0",
+  "description": "A set of encoders and decoders",
+  "main": "encoding.js",
+  "repository": "https://github.com/elbrook/jsencoding.git"
+}
+
